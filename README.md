@@ -16,3 +16,13 @@ A simple command-line banking system using Python OOP.
 ```bash
 python main.py
 ```
+
+## 📸 Sample Output
+```
+===== BANK SYSTEM =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+```
